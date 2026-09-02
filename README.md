@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/profile-photo.png" width="150" height="150" style="border-radius:50%;box-shadow:0 0 25px rgba(94,129,255,0.55),0 0 45px rgba(168,85,247,0.35);object-fit:cover;" />
-
 # Hi, I'm Shravani 👋
 
 ### Computer Science Student | AI Builder
