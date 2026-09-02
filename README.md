@@ -33,37 +33,25 @@ Learn • Build • Experiment • Evolve
 
 ## 💡 Interests
 
-<table>
-<tr>
-<td valign="top" width="33%">
+**🤖 AI & Intelligent Systems**
+![AI/ML](https://img.shields.io/badge/AI/ML-0d1117?style=flat-square&labelColor=0d1117&color=5e81ff)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-0d1117?style=flat-square&labelColor=0d1117&color=5e81ff)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-0d1117?style=flat-square&labelColor=0d1117&color=5e81ff)
+![RAG](https://img.shields.io/badge/RAG-0d1117?style=flat-square&labelColor=0d1117&color=5e81ff)
+![NLP & Speech AI](https://img.shields.io/badge/NLP%20%26%20Speech%20AI-0d1117?style=flat-square&labelColor=0d1117&color=5e81ff)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0d1117?style=flat-square&labelColor=0d1117&color=5e81ff)
 
-**AI & Machine Learning**
-- AI/ML
-- Generative AI
-- Agentic AI
-- RAG
+**📊 Data**
+![Data Science](https://img.shields.io/badge/Data%20Science-0d1117?style=flat-square&labelColor=0d1117&color=a855f7)
+![Data Mining](https://img.shields.io/badge/Data%20Mining-0d1117?style=flat-square&labelColor=0d1117&color=a855f7)
+![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-0d1117?style=flat-square&labelColor=0d1117&color=a855f7)
 
-</td>
-<td valign="top" width="33%">
-
-**Data & Language**
-- NLP & Speech AI
-- Computer Vision
-- Data Science
-- Data Mining & Warehousing
-
-</td>
-<td valign="top" width="33%">
-
-**Engineering & Product**
-- Software Engineering
-- Web & Backend Development
-- Product Management
-- UI/UX
-
-</td>
-</tr>
-</table>
+**💻 Engineering & Product**
+![Software Engineering](https://img.shields.io/badge/Software%20Engineering-0d1117?style=flat-square&labelColor=0d1117&color=8b93ff)
+![Web Development](https://img.shields.io/badge/Web%20Development-0d1117?style=flat-square&labelColor=0d1117&color=8b93ff)
+![Backend Development](https://img.shields.io/badge/Backend%20Development-0d1117?style=flat-square&labelColor=0d1117&color=8b93ff)
+![Product Management](https://img.shields.io/badge/Product%20Management-0d1117?style=flat-square&labelColor=0d1117&color=8b93ff)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-0d1117?style=flat-square&labelColor=0d1117&color=8b93ff)
 
 <br/>
 
